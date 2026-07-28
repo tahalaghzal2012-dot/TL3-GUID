@@ -9,8 +9,6 @@ Special Acknowledgments:
 
 Shino’s Ultimate Battery Guide: Inspiration for baseline device configuration and system settings tweaks.
 
-Ruvomain Protocol: Inspiration for non-root optimization strategies, background process limits, and Canta/Shizuku debloating methods.
-
 🛠️ Phase 1: On-Device Settings Optimization
 Before running any scripts, prepare your phone with these baseline system settings.  
 
